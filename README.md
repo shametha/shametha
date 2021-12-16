@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shametha K G</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
+- 🎓 Currently pursuing *bachelors in Computer Science and Engineering*
 
+- 💖 Technology *Inspires me!*
+
+- 👨‍💻 I am a self-taught *Flutter Developer*
+
+- ⚡ I am *optimistic* and love learning new things everyday!
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
