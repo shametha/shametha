@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shametha K G</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-- 🎓 Currently pursuing *bachelors in Computer Science and Engineering*
-- 💖 Technology *Inspires me!*
-- 👨‍💻 I am a self-taught *Flutter Developer*
+- 🎓 Currently pursuing *bachelors in Computer Science and Engineering*<br>
+- 💖 Technology *Inspires me!*<br>
+- 👨‍💻 I am a self-taught *Flutter Developer*<br>
 - ⚡ I am *optimistic* and love learning new things everyday!
 <br>
 <h3 align="left">Languages and Tools I've worked with:</h3>
 <p align="left">
 <h5 align="left">Languages:</h5>
-   <br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
       width="40" height="40" /> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
